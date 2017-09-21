@@ -1,0 +1,99 @@
+/*
+@media (min-width: 1281px){
+	.e00{
+		display:none;*/
+	/*}*/
+
+/*}
+@media (min-width:1025px) and (max-width: 1280px){
+	.e00{
+		display:block;
+	}
+
+}
+@media (min-width: 768px) and (max-width: 1024px) and (orientation:landscape){
+	.e00{
+		display:block;
+	}
+
+
+@media (min-width: 481px) and (max-width:767px){
+	.e00{
+		display:block;
+	}
+
+} */
+  
+@media only screen and (min-width:320px){
+	.class1{
+		display:none;
+	}
+}
+@media only screen and (min-width:480px){
+	.class1{
+		display:none;
+	}
+}
+@media only screen and (min-width:768px){
+	.class1{
+		display:block;
+	}
+}
+@media only screen and (min-width:992px){
+	.class1{
+		display:block;
+	}
+}
+@media only screen and (min-width:1200px){
+	.class1{
+		display:block;
+	}
+}
+.class1{
+	background:url("class1.jpg")center center / cover no-repeat;
+	width:480px;
+	height:480px;
+}
+.class2{
+	width:100px;
+	height:100px;
+	background:red url("class4.jpg");
+ 	transition: width 6s, height 6s;
+}
+.class2:hover{
+
+	width:1000px;
+	height:1000px;
+
+}
+.name {
+	border-color: blue;
+}
+.number{
+	border
+}
+@media only screen and (min-width:320px){
+	.frame{
+		display:none;
+	}
+}
+@media only screen and (min-width:480px){
+	.frame{
+		display:none;
+	}
+}
+@media only screen and (min-width:768px){
+	.frame{
+		display:none;
+	}
+}
+@media only screen and (min-width:992px){
+	.frame{
+		display:none;
+	}
+}
+@media only screen and (min-width:1200px){
+	.frame{
+		display:block;
+	}
+}
